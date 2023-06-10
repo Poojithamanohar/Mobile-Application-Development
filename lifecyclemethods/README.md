@@ -32,7 +32,6 @@ Program to print the text “Hello World”.
 Developed by:Poojitha 
 Registeration Number :212220040133
 */
-```
 activity_main.xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -96,6 +95,8 @@ Toast.makeText(this, "onDestroy Called", Toast.LENGTH_SHORT).show();
 super.onDestroy();
 }
 }
+```
+
 
 
 
@@ -103,6 +104,10 @@ super.onDestroy();
 
 ![Screenshots(28)](https://github.com/Poojithamanohar/Mobile-Application-Development/assets/119423592/024e78c0-e4f8-426b-ad0f-bff5e3a94166)
 ![Screenshots(29)](https://github.com/Poojithamanohar/Mobile-Application-Development/assets/119423592/e8d862e4-06f9-40e8-a7fa-59556f25367a)
+![Screenshots(30)](https://github.com/Poojithamanohar/Mobile-Application-Development/assets/119423592/1dcd52f0-0766-483b-8577-5d70ccf6c443)
+![Screenshots (31)](https://github.com/Poojithamanohar/Mobile-Application-Development/assets/119423592/0606483d-a514-46d6-bdd8-982cd9a97872)
+![Screenshots (32)](https://github.com/Poojithamanohar/Mobile-Application-Development/assets/119423592/dbbf0a7e-2379-4ffb-9b49-e1152b0ec00a)
+
 
 
 
